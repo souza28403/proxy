@@ -1,6 +1,5 @@
 function FindProxyForURL(url, host) {
     var sitesBloqueados = [
-        "youtube.com",
         "facebook.com",
         "web.whatsapp.com"
     ];
